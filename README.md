@@ -18,6 +18,9 @@ What we have?
 - UI
 - Render with lock fps (75 default)
 
+UI working on React functional component. Engine being developed for space game like Eve Online
+ but 2D and on React. At now i`m working on Demo.
+
 # <a name="roadmap">Roadmap</a>
 will be later...
 
